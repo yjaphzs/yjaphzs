@@ -1,5 +1,5 @@
 <h1>Hi I'm Jan 👋🏻</h1>
-<h3>Full-Stack Developer | Full Stack Developer | Instructor</h3>
+> Full-Stack Developer | Full Stack Developer | Instructor
 
 ---
 
