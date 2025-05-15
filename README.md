@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jan Bautista</h1>
-<h3 align="center">Web Developer | Full-Stack Laravel Developer | Educator</h3>
+<h3 align="center">Full-Stack Developer | Full Stack Developer | Instructor</h3>
 
 <p align="center">
   Passionate about building elegant, purpose-driven systems and helping others grow through tech.
@@ -29,5 +29,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
