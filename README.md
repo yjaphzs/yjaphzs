@@ -30,12 +30,3 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janbautista&show_icons=true&theme=radical" alt="Jan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janbautista&layout=compact&theme=radical" alt="Top languages" />
-</p>
