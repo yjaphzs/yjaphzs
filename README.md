@@ -1,8 +1,6 @@
 # Hi I'm Jan 👋🏻
 > Full-Stack Developer | Full Stack Developer | Instructor
 
---
-
 ### About Me
 
 - 👨‍💻 Currently working as a **Full-Stack Developer** at a university, building systems with **Laravel**.
