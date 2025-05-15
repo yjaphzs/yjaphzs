@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jan Bautista</h1>
 <h3 align="center">Full-Stack Developer | Full Stack Developer | Instructor</h3>
 
-<p align="center">
-  Passionate about building elegant, purpose-driven systems and helping others grow through tech.
-</p>
-
 ---
 
 ### 🔧 About Me
