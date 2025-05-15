@@ -1,4 +1,4 @@
-<h1>Hi I'm Jan 👋🏻</h1>
+# Hi I'm Jan 👋🏻
 > Full-Stack Developer | Full Stack Developer | Instructor
 
 ---
