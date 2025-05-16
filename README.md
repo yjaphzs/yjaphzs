@@ -1,6 +1,7 @@
 ![Github_Banner jpg](https://github.com/user-attachments/assets/6ea759b1-8fde-423c-b0ed-8d021eb49d1d)
 
 # Hi, I'm Jan
+> Full-Stack Developer | Laravel Developer | Instructor
 
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
