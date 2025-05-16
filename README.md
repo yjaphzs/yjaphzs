@@ -1,6 +1,6 @@
 ![Github_Banner jpg](https://github.com/user-attachments/assets/6ea759b1-8fde-423c-b0ed-8d021eb49d1d)
 
-# Hi, I'm Jan
+# Hi, I'm Jan👋🏻
 > Full-Stack Developer | Laravel Developer | Instructor
 
 I’m currently working as a **Full-Stack Developer**, building university-wide systems using **Laravel**. Alongside that, I serve as an **Affiliate Instructor** in the IT Department, where I share my passion for coding and system development.
