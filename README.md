@@ -1,4 +1,4 @@
-![Github_Banner jpg](https://github.com/user-attachments/assets/6ea759b1-8fde-423c-b0ed-8d021eb49d1d)
+![Github_Banner](https://github.com/user-attachments/assets/8d6692ab-68e7-4513-8932-0e51c27b0596)
 
 # Hi, I'm Jan👋🏻
 > Full-Stack Developer | Laravel Developer | Instructor
