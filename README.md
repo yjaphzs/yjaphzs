@@ -1,16 +1,6 @@
+<div style="">
 ![Github_Banner](https://github.com/user-attachments/assets/b3f7e009-a910-4d35-b607-fff4368e1ab5)
-
-# Hi I'm Jan 👋🏻
-> Full-Stack Developer | Full Stack Developer | Instructor
-
-### About Me
-
-- 👨‍💻 Currently working as a **Full-Stack Developer** at a university, building systems with **Laravel**.
-- 👨‍🏫 Also serving as an **Affiliate Instructor** in the IT Department.
-- 🌱 I’m currently diving deeper into **Laravel internals**, **custom component architecture**, and **system scalability**.
-- 🛠️ Most recent projects: **RADIIS** & **BAIIS**.
-
-### Tech Stack & Tools
+</div>
 
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
