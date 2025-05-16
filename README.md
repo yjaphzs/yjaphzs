@@ -5,7 +5,7 @@
 
 I’m currently working as a **Full-Stack Developer**, building university-wide systems using **Laravel**. Alongside that, I serve as an **Affiliate Instructor** in the IT Department, where I share my passion for coding and system development.
 
-Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BAIIS**](https://basis.clsu.edu.ph/) (Business Affairs Integrated Information System).
+Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BASIS**](https://basis.clsu.edu.ph/) (Business Affairs Strategic Information System).
 
 ---
 
