@@ -3,7 +3,11 @@
 # Hi, I'm Jan
 > Full-Stack Developer | Laravel Developer | Instructor
 
-I’m currently working as a **Full-Stack Developer**, building university-wide systems using **Laravel**. Alongside that, I serve as an **Affiliate Instructor** in the IT Department, where I share my passion for coding and system development. I'm actively diving deeper into **Laravel internals**, **Livewire**, and advanced **component-driven architecture** to improve scalability and maintainability in the systems I build. Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BAIIS**](https://basis.clsu.edu.ph/) (Business Affairs Integrated Information System).
+I’m currently working as a **Full-Stack Developer**, building university-wide systems using **Laravel**. Alongside that, I serve as an **Affiliate Instructor** in the IT Department, where I share my passion for coding and system development.
+
+I'm actively diving deeper into **Laravel internals**, **Livewire**, and advanced **component-driven architecture** to improve scalability and maintainability in the systems I build.
+
+Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BAIIS**](https://basis.clsu.edu.ph/) (Business Affairs Integrated Information System).
 
 
 ### Current Tech Stack and Tools that I used
