@@ -7,8 +7,8 @@ I’m currently working as a **Full-Stack Developer**, building university-wide 
 
 Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BAIIS**](https://basis.clsu.edu.ph/) (Business Affairs Integrated Information System).
 
+---
 
-### Current Tech Stack and Tools that I used
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=laravel&style=flat)
