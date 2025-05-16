@@ -1,6 +1,10 @@
-<div style="">
 ![Github_Banner](https://github.com/user-attachments/assets/b3f7e009-a910-4d35-b607-fff4368e1ab5)
-</div>
+
+<img 
+    src="https://github.com/user-attachments/assets/b3f7e009-a910-4d35-b607-fff4368e1ab5" 
+    alt="Github_Banner"
+    style="border-radius: 16px; border: 2px solid #9c70ff; max-width: 100%;" 
+  />
 
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
