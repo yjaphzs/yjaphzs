@@ -11,6 +11,7 @@ Before that, at CLSU, I led the development of several university-wide systems a
 
 ---
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=react&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
@@ -19,7 +20,6 @@ Before that, at CLSU, I led the development of several university-wide systems a
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=laravel&style=flat)
 ![Spatie](https://img.shields.io/badge/-Spatie-4E5D94?logo=laravel&logoColor=white&style=flat)
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
