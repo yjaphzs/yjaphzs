@@ -1,14 +1,19 @@
 ![Github_Banner](https://github.com/user-attachments/assets/8d6692ab-68e7-4513-8932-0e51c27b0596)
 
 # Hi, I'm Jan👋🏻
-> Full-Stack Developer | Laravel Developer | Instructor
+> Full-Stack Developer | Instructor
 
-I’m currently working as a **Full-Stack Developer**, building university-wide systems using **Laravel**. Alongside that, I serve as an **Affiliate Instructor** in the IT Department, where I share my passion for coding and system development.
+I’m a **Full-Stack Developer** who enjoys building useful and modern web applications that make people’s work easier. Over the years, I’ve worked on university systems, creative web platforms, IT support, and scalable financial technology solutions. I like solving real problems with simple and practical tech solutions.
 
-Some of the projects I’m currently working on include [**RADIIS**](https://radiis.clsu.edu.ph/) (Research and Development Integrated Information System) and [**BASIS**](https://basis.clsu.edu.ph/) (Business Affairs Strategic Information System).
+Most recently, I worked with a financial technology company where I helped design and develop real-time web systems and internal portals used for secure asset valuation and management.
+
+Before that, at CLSU, I led the development of several university-wide systems and also taught programming in the IT department, sharing my passion for coding while building tools that people actually use.
 
 ---
-
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=react&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=laravel&style=flat)
