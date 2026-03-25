@@ -3,11 +3,11 @@
 # Hi, I'm Jan👋🏻
 > Full-Stack Developer | Instructor
 
-I’m a **Full-Stack Developer** who enjoys building useful and modern web applications that make people’s work easier. Over the years, I’ve worked on university systems, creative web platforms, IT support, and scalable financial technology solutions. I like solving real problems with simple and practical tech solutions.
+I’m a **Full-Stack Developer** passionate about building useful, modern web apps. My experience spans university systems, creative web ads, IT support, and scalable financial technology platforms—always focused on making things simpler and more impactful.
 
-Most recently, I worked with a financial technology company where I helped design and develop real-time web systems and internal portals used for secure asset valuation and management.
+My latest experience is with a financial technology company, where I architected and developed real-time, scalable web systems and internal portals for secure asset valuation and management.
 
-Before that, at CLSU, I led the development of several university-wide systems and also taught programming in the IT department, sharing my passion for coding while building tools that people actually use.
+At CLSU, I led the development of institution-wide platforms and taught programming, bridging technical solutions with real user needs.
 
 ---
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
